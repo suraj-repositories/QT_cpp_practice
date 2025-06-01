@@ -4,7 +4,7 @@ Qt is a cross-platform application development framework widely used for creatin
 
 
 <br><br>
-<div style="display: flex; align-items: center; justify-content: center;gap: 20px">
+<div style="display: flex; align-items: center; justify-content: center;gap: 20px" align="center">
 <img src="screenshots/c++.png" alt="c++"/>
 <img src="screenshots/qt.png" alt="QT"/>
 </div>
