@@ -1,0 +1,30 @@
+{
+	"BUILD_DIR" : "/home/shubham/Documents/Qt_workspace/QT_14_ComboBox/build/Desktop_Qt_6_9_0-Debug/QT_14_ComboBox_autogen",
+	"CMAKE_BINARY_DIR" : "/home/shubham/Documents/Qt_workspace/QT_14_ComboBox/build/Desktop_Qt_6_9_0-Debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "/home/shubham/Documents/Qt_workspace/QT_14_ComboBox/build/Desktop_Qt_6_9_0-Debug",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/home/shubham/Documents/Qt_workspace/QT_14_ComboBox",
+	"CMAKE_SOURCE_DIR" : "/home/shubham/Documents/Qt_workspace/QT_14_ComboBox",
+	"CROSS_CONFIG" : false,
+	"GENERATOR" : "Ninja",
+	"INCLUDE_DIR" : "/home/shubham/Documents/Qt_workspace/QT_14_ComboBox/build/Desktop_Qt_6_9_0-Debug/QT_14_ComboBox_autogen/include",
+	"INPUTS" : 
+	[
+		"/home/shubham/Documents/Qt_workspace/QT_14_ComboBox/img/mango.png",
+		"/home/shubham/Documents/Qt_workspace/QT_14_ComboBox/img/watermelon.png",
+		"/home/shubham/Documents/Qt_workspace/QT_14_ComboBox/img/coconut.png",
+		"/home/shubham/Documents/Qt_workspace/QT_14_ComboBox/img/banana.png",
+		"/home/shubham/Documents/Qt_workspace/QT_14_ComboBox/img/orange.png",
+		"/home/shubham/Documents/Qt_workspace/QT_14_ComboBox/img/grapes.png"
+	],
+	"LOCK_FILE" : "/home/shubham/Documents/Qt_workspace/QT_14_ComboBox/build/Desktop_Qt_6_9_0-Debug/CMakeFiles/QT_14_ComboBox_autogen.dir/AutoRcc_Resource_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "-name", "Resource" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_Resource.cpp",
+	"RCC_EXECUTABLE" : "/home/shubham/Qt/6.9.0/gcc_64/libexec/rcc",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "/home/shubham/Documents/Qt_workspace/QT_14_ComboBox/build/Desktop_Qt_6_9_0-Debug/CMakeFiles/QT_14_ComboBox_autogen.dir/AutoRcc_Resource_EWIEGA46WW_Used.txt",
+	"SOURCE" : "/home/shubham/Documents/Qt_workspace/QT_14_ComboBox/Resource.qrc",
+	"USE_BETTER_GRAPH" : true,
+	"VERBOSITY" : 0
+}

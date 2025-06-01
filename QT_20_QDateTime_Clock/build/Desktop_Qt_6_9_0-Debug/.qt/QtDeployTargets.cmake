@@ -1,0 +1,2 @@
+set(__QT_DEPLOY_TARGET_QT_20_QDateTime_Clock_FILE /home/shubham/Documents/Qt_workspace/QT_20_QDateTime_Clock/build/Desktop_Qt_6_9_0-Debug/QT_20_QDateTime_Clock)
+set(__QT_DEPLOY_TARGET_QT_20_QDateTime_Clock_TYPE EXECUTABLE)

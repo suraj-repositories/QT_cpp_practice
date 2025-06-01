@@ -1,0 +1,15 @@
+# ninja log v6
+2	238	1748055572439648766	QT_6_Layouts_autogen/timestamp	df51026c227b7194
+2	238	1748055572439648766	QT_6_Layouts_autogen/mocs_compilation.cpp	df51026c227b7194
+2	238	1748055572439648766	/home/shubham/Documents/Qt_workspace/QT_6_Layouts/build/Desktop_Qt_6_9_0-Debug/QT_6_Layouts_autogen/timestamp	df51026c227b7194
+2	238	1748055572439648766	/home/shubham/Documents/Qt_workspace/QT_6_Layouts/build/Desktop_Qt_6_9_0-Debug/QT_6_Layouts_autogen/mocs_compilation.cpp	df51026c227b7194
+238	1379	1748055572443648842	CMakeFiles/QT_6_Layouts.dir/QT_6_Layouts_autogen/mocs_compilation.cpp.o	e8b47ca6dd0038e
+239	1445	1748055572444648861	CMakeFiles/QT_6_Layouts.dir/main.cpp.o	b7ddc7416d5e9edf
+239	1450	1748055572444648861	CMakeFiles/QT_6_Layouts.dir/mainwindow.cpp.o	b7471878b86be5e9
+1450	1683	1748055573655671874	QT_6_Layouts	d8a80469d3cc2ea5
+4	34	1748056039361193832	QT_6_Layouts_autogen/timestamp	df51026c227b7194
+4	34	1748056039361193832	QT_6_Layouts_autogen/mocs_compilation.cpp	df51026c227b7194
+4	34	1748056039361193832	/home/shubham/Documents/Qt_workspace/QT_6_Layouts/build/Desktop_Qt_6_9_0-Debug/QT_6_Layouts_autogen/timestamp	df51026c227b7194
+4	34	1748056039361193832	/home/shubham/Documents/Qt_workspace/QT_6_Layouts/build/Desktop_Qt_6_9_0-Debug/QT_6_Layouts_autogen/mocs_compilation.cpp	df51026c227b7194
+34	1430	1748056039391184015	CMakeFiles/QT_6_Layouts.dir/mainwindow.cpp.o	b7471878b86be5e9
+1430	1673	1748056040787727757	QT_6_Layouts	d8a80469d3cc2ea5

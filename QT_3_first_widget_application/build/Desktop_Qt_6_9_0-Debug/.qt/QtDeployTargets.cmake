@@ -1,0 +1,2 @@
+set(__QT_DEPLOY_TARGET_QT_3_first_widget_application_FILE /home/shubham/Documents/Qt_workspace/QT_3_first_widget_application/build/Desktop_Qt_6_9_0-Debug/QT_3_first_widget_application)
+set(__QT_DEPLOY_TARGET_QT_3_first_widget_application_TYPE EXECUTABLE)

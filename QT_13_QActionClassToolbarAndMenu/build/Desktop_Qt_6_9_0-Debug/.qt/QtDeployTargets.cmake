@@ -1,0 +1,2 @@
+set(__QT_DEPLOY_TARGET_QT_12_QActionClassToolbarAndMenu_FILE /home/shubham/Documents/Qt_workspace/QT_12_QActionClassToolbarAndMenu/build/Desktop_Qt_6_9_0-Debug/QT_12_QActionClassToolbarAndMenu)
+set(__QT_DEPLOY_TARGET_QT_12_QActionClassToolbarAndMenu_TYPE EXECUTABLE)

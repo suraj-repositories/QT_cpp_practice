@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-b597a3cb52b01a495b9d.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "QT_20_QDateTime_Clock",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "QT_20_QDateTime_Clock::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-QT_20_QDateTime_Clock-Debug-ae2428acdb76a22ec751.json",
+					"name" : "QT_20_QDateTime_Clock",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "QT_20_QDateTime_Clock_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-QT_20_QDateTime_Clock_autogen-Debug-4d2344a624188d9c876d.json",
+					"name" : "QT_20_QDateTime_Clock_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "QT_20_QDateTime_Clock_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-QT_20_QDateTime_Clock_autogen_timestamp_deps-Debug-75a61426f80367998e5d.json",
+					"name" : "QT_20_QDateTime_Clock_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/shubham/Documents/Qt_workspace/QT_20_QDateTime_Clock/build/Desktop_Qt_6_9_0-Debug",
+		"source" : "/home/shubham/Documents/Qt_workspace/QT_20_QDateTime_Clock"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

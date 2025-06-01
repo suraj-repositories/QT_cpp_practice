@@ -1,0 +1,15 @@
+# ninja log v6
+46	1216	1747970631667998091	CMakeFiles/QT_1.dir/mainwindow.cpp.o	a521c0afed64de8b
+25	1183	1747970587629208734	CMakeFiles/QT_1.dir/main.cpp.o	78cf12e294b1fe15
+232	1372	1747965628811343316	CMakeFiles/QT_1.dir/QT_1_autogen/mocs_compilation.cpp.o	2ae6c5e5016d3f81
+4	46	1747970631625998287	/home/shubham/Documents/Qt_workspace/QT_1/build/Desktop_Qt_6_9_0-Debug/QT_1_autogen/mocs_compilation.cpp	d775e782e330f549
+4	46	1747970631625998287	/home/shubham/Documents/Qt_workspace/QT_1/build/Desktop_Qt_6_9_0-Debug/QT_1_autogen/timestamp	d775e782e330f549
+4	46	1747970631625998287	QT_1_autogen/mocs_compilation.cpp	d775e782e330f549
+1216	1486	1747970632837992628	QT_1	a5f92f666e641daa
+4	46	1747970631625998287	QT_1_autogen/timestamp	d775e782e330f549
+6	37	1747970670931818369	QT_1_autogen/timestamp	d775e782e330f549
+6	37	1747970670931818369	QT_1_autogen/mocs_compilation.cpp	d775e782e330f549
+6	37	1747970670931818369	/home/shubham/Documents/Qt_workspace/QT_1/build/Desktop_Qt_6_9_0-Debug/QT_1_autogen/timestamp	d775e782e330f549
+6	37	1747970670931818369	/home/shubham/Documents/Qt_workspace/QT_1/build/Desktop_Qt_6_9_0-Debug/QT_1_autogen/mocs_compilation.cpp	d775e782e330f549
+37	1218	1747970670962818230	CMakeFiles/QT_1.dir/mainwindow.cpp.o	a521c0afed64de8b
+1218	1503	1747970672143812936	QT_1	a5f92f666e641daa

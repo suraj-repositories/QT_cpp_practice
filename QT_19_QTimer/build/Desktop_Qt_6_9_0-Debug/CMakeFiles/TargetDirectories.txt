@@ -1,0 +1,9 @@
+/home/shubham/Documents/Qt_workspace/QT_19_QTimer/build/Desktop_Qt_6_9_0-Debug/CMakeFiles/QT_19_QTimer.dir
+/home/shubham/Documents/Qt_workspace/QT_19_QTimer/build/Desktop_Qt_6_9_0-Debug/CMakeFiles/edit_cache.dir
+/home/shubham/Documents/Qt_workspace/QT_19_QTimer/build/Desktop_Qt_6_9_0-Debug/CMakeFiles/rebuild_cache.dir
+/home/shubham/Documents/Qt_workspace/QT_19_QTimer/build/Desktop_Qt_6_9_0-Debug/CMakeFiles/list_install_components.dir
+/home/shubham/Documents/Qt_workspace/QT_19_QTimer/build/Desktop_Qt_6_9_0-Debug/CMakeFiles/install.dir
+/home/shubham/Documents/Qt_workspace/QT_19_QTimer/build/Desktop_Qt_6_9_0-Debug/CMakeFiles/install/local.dir
+/home/shubham/Documents/Qt_workspace/QT_19_QTimer/build/Desktop_Qt_6_9_0-Debug/CMakeFiles/install/strip.dir
+/home/shubham/Documents/Qt_workspace/QT_19_QTimer/build/Desktop_Qt_6_9_0-Debug/CMakeFiles/QT_19_QTimer_autogen_timestamp_deps.dir
+/home/shubham/Documents/Qt_workspace/QT_19_QTimer/build/Desktop_Qt_6_9_0-Debug/CMakeFiles/QT_19_QTimer_autogen.dir

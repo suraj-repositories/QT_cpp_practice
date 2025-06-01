@@ -1,0 +1,2 @@
+set(__QT_DEPLOY_TARGET_QT_10_HtmlCSS_FILE /home/shubham/Documents/Qt_workspace/QT_10_HtmlCSS/build/Desktop_Qt_6_9_0-Debug/QT_10_HtmlCSS)
+set(__QT_DEPLOY_TARGET_QT_10_HtmlCSS_TYPE EXECUTABLE)

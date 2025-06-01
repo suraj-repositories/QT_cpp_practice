@@ -1,0 +1,2 @@
+set(__QT_DEPLOY_TARGET_QT_15_QListWidget_FILE /home/shubham/Documents/Qt_workspace/QT_15_QListWidget/build/Desktop_Qt_6_9_0-Debug/QT_15_QListWidget)
+set(__QT_DEPLOY_TARGET_QT_15_QListWidget_TYPE EXECUTABLE)

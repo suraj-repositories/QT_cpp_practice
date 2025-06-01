@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>MainWindow</class>
+ <widget class="QMainWindow" name="MainWindow">
+  <property name="windowModality">
+   <enum>Qt::WindowModality::WindowModal</enum>
+  </property>
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>1011</width>
+    <height>600</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>MainWindow</string>
+  </property>
+  <property name="windowIcon">
+   <iconset>
+    <normaloff>../../../Downloads/F-7561738669750058_x_gpk_logo(5).png</normaloff>../../../Downloads/F-7561738669750058_x_gpk_logo(5).png</iconset>
+  </property>
+  <widget class="QWidget" name="centralwidget">
+   <widget class="QPushButton" name="pushButton">
+    <property name="geometry">
+     <rect>
+      <x>150</x>
+      <y>90</y>
+      <width>161</width>
+      <height>71</height>
+     </rect>
+    </property>
+    <property name="autoFillBackground">
+     <bool>true</bool>
+    </property>
+    <property name="text">
+     <string>Something else</string>
+    </property>
+    <property name="icon">
+     <iconset>
+      <normaloff>../../../Downloads/default_user.webp</normaloff>../../../Downloads/default_user.webp</iconset>
+    </property>
+    <property name="iconSize">
+     <size>
+      <width>80</width>
+      <height>80</height>
+     </size>
+    </property>
+    <property name="checkable">
+     <bool>false</bool>
+    </property>
+   </widget>
+   <widget class="QCheckBox" name="checkBox">
+    <property name="geometry">
+     <rect>
+      <x>160</x>
+      <y>260</y>
+      <width>88</width>
+      <height>22</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>CheckBox</string>
+    </property>
+   </widget>
+   <widget class="QWidget" name="horizontalLayoutWidget">
+    <property name="geometry">
+     <rect>
+      <x>430</x>
+      <y>310</y>
+      <width>241</width>
+      <height>41</height>
+     </rect>
+    </property>
+    <layout class="QHBoxLayout" name="horizontalLayout">
+     <item>
+      <widget class="QPushButton" name="pushButton_2">
+       <property name="text">
+        <string>PushButton</string>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QPushButton" name="pushButton_3">
+       <property name="text">
+        <string>PushButton</string>
+       </property>
+      </widget>
+     </item>
+    </layout>
+   </widget>
+  </widget>
+  <widget class="QMenuBar" name="menubar">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>0</y>
+     <width>1011</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <widget class="QMenu" name="menuQT1">
+    <property name="title">
+     <string>QT1</string>
+    </property>
+    <widget class="QMenu" name="menuanother">
+     <property name="title">
+      <string>another</string>
+     </property>
+     <addaction name="actionnew_thing"/>
+     <addaction name="actionnew_one"/>
+     <addaction name="actionanother_new"/>
+    </widget>
+    <addaction name="actionsomet"/>
+    <addaction name="menuanother"/>
+    <addaction name="actionslsdkfj"/>
+    <addaction name="actionskdfj"/>
+    <addaction name="actiondj"/>
+    <addaction name="separator"/>
+    <addaction name="actionafter_seperator"/>
+   </widget>
+   <addaction name="menuQT1"/>
+  </widget>
+  <widget class="QStatusBar" name="statusbar"/>
+  <action name="actionsomet">
+   <property name="text">
+    <string>somet</string>
+   </property>
+  </action>
+  <action name="actionslsdkfj">
+   <property name="text">
+    <string>slsdkfj</string>
+   </property>
+  </action>
+  <action name="actionskdfj">
+   <property name="text">
+    <string>skdfj</string>
+   </property>
+  </action>
+  <action name="actiondj">
+   <property name="text">
+    <string>dj</string>
+   </property>
+  </action>
+  <action name="actionafter_seperator">
+   <property name="text">
+    <string>after seperator</string>
+   </property>
+  </action>
+  <action name="actionnew_thing">
+   <property name="text">
+    <string>new thing</string>
+   </property>
+  </action>
+  <action name="actionnew_one">
+   <property name="text">
+    <string>new one</string>
+   </property>
+  </action>
+  <action name="actionanother_new">
+   <property name="text">
+    <string>another new</string>
+   </property>
+  </action>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>

@@ -1,0 +1,2 @@
+set(__QT_DEPLOY_TARGET_QT_16_QDir_FILE /home/shubham/Documents/Qt_workspace/QT_16_QDir/build/Desktop_Qt_6_9_0-Debug/QT_16_QDir)
+set(__QT_DEPLOY_TARGET_QT_16_QDir_TYPE EXECUTABLE)

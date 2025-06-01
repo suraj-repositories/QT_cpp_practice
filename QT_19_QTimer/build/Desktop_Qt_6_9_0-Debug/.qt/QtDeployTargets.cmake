@@ -1,0 +1,2 @@
+set(__QT_DEPLOY_TARGET_QT_19_QTimer_FILE /home/shubham/Documents/Qt_workspace/QT_19_QTimer/build/Desktop_Qt_6_9_0-Debug/QT_19_QTimer)
+set(__QT_DEPLOY_TARGET_QT_19_QTimer_TYPE EXECUTABLE)

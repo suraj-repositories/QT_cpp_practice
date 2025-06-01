@@ -1,0 +1,2 @@
+set(__QT_DEPLOY_TARGET_QT_9_LoginApp_FILE /home/shubham/Documents/Qt_workspace/QT_9_LoginApp/build/Desktop_Qt_6_9_0-Debug/QT_9_LoginApp)
+set(__QT_DEPLOY_TARGET_QT_9_LoginApp_TYPE EXECUTABLE)

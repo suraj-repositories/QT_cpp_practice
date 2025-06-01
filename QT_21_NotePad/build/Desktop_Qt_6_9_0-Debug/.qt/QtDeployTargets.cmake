@@ -1,0 +1,2 @@
+set(__QT_DEPLOY_TARGET_QT_21_NotePad_FILE /home/shubham/Documents/Qt_workspace/QT_21_NotePad/build/Desktop_Qt_6_9_0-Debug/QT_21_NotePad)
+set(__QT_DEPLOY_TARGET_QT_21_NotePad_TYPE EXECUTABLE)

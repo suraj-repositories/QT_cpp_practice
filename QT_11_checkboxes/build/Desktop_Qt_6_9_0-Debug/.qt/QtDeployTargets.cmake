@@ -1,0 +1,2 @@
+set(__QT_DEPLOY_TARGET_QT_11_checkboxes_FILE /home/shubham/Documents/Qt_workspace/QT_11_checkboxes/build/Desktop_Qt_6_9_0-Debug/QT_11_checkboxes)
+set(__QT_DEPLOY_TARGET_QT_11_checkboxes_TYPE EXECUTABLE)

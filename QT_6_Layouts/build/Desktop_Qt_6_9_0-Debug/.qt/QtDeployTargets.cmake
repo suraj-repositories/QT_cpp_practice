@@ -1,0 +1,2 @@
+set(__QT_DEPLOY_TARGET_QT_6_Layouts_FILE /home/shubham/Documents/Qt_workspace/QT_6_Layouts/build/Desktop_Qt_6_9_0-Debug/QT_6_Layouts)
+set(__QT_DEPLOY_TARGET_QT_6_Layouts_TYPE EXECUTABLE)

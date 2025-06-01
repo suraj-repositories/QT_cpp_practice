@@ -1,0 +1,36 @@
+{
+	"BUILD_DIR" : "/home/shubham/Documents/Qt_workspace/QT_21_NotePad/build/Desktop_Qt_6_9_0-Debug/QT_21_NotePad_autogen",
+	"CMAKE_BINARY_DIR" : "/home/shubham/Documents/Qt_workspace/QT_21_NotePad/build/Desktop_Qt_6_9_0-Debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "/home/shubham/Documents/Qt_workspace/QT_21_NotePad/build/Desktop_Qt_6_9_0-Debug",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/home/shubham/Documents/Qt_workspace/QT_21_NotePad",
+	"CMAKE_SOURCE_DIR" : "/home/shubham/Documents/Qt_workspace/QT_21_NotePad",
+	"CROSS_CONFIG" : false,
+	"GENERATOR" : "Ninja",
+	"INCLUDE_DIR" : "/home/shubham/Documents/Qt_workspace/QT_21_NotePad/build/Desktop_Qt_6_9_0-Debug/QT_21_NotePad_autogen/include",
+	"INPUTS" : 
+	[
+		"/home/shubham/Documents/Qt_workspace/QT_21_NotePad/img/redo.png",
+		"/home/shubham/Documents/Qt_workspace/QT_21_NotePad/img/new.png",
+		"/home/shubham/Documents/Qt_workspace/QT_21_NotePad/img/save.png",
+		"/home/shubham/Documents/Qt_workspace/QT_21_NotePad/img/open.png",
+		"/home/shubham/Documents/Qt_workspace/QT_21_NotePad/img/orange.png",
+		"/home/shubham/Documents/Qt_workspace/QT_21_NotePad/img/about.png",
+		"/home/shubham/Documents/Qt_workspace/QT_21_NotePad/img/saveas.png",
+		"/home/shubham/Documents/Qt_workspace/QT_21_NotePad/img/undo.png",
+		"/home/shubham/Documents/Qt_workspace/QT_21_NotePad/img/copy.png",
+		"/home/shubham/Documents/Qt_workspace/QT_21_NotePad/img/big-orange.png",
+		"/home/shubham/Documents/Qt_workspace/QT_21_NotePad/img/paste.png",
+		"/home/shubham/Documents/Qt_workspace/QT_21_NotePad/img/cut.png"
+	],
+	"LOCK_FILE" : "/home/shubham/Documents/Qt_workspace/QT_21_NotePad/build/Desktop_Qt_6_9_0-Debug/CMakeFiles/QT_21_NotePad_autogen.dir/AutoRcc_Resource_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "-name", "Resource" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_Resource.cpp",
+	"RCC_EXECUTABLE" : "/home/shubham/Qt/6.9.0/gcc_64/libexec/rcc",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "/home/shubham/Documents/Qt_workspace/QT_21_NotePad/build/Desktop_Qt_6_9_0-Debug/CMakeFiles/QT_21_NotePad_autogen.dir/AutoRcc_Resource_EWIEGA46WW_Used.txt",
+	"SOURCE" : "/home/shubham/Documents/Qt_workspace/QT_21_NotePad/Resource.qrc",
+	"USE_BETTER_GRAPH" : true,
+	"VERBOSITY" : 0
+}

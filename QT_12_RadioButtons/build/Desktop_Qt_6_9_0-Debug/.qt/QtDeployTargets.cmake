@@ -1,0 +1,2 @@
+set(__QT_DEPLOY_TARGET_QT_12_RadioButtons_FILE /home/shubham/Documents/Qt_workspace/QT_12_RadioButtons/build/Desktop_Qt_6_9_0-Debug/QT_12_RadioButtons)
+set(__QT_DEPLOY_TARGET_QT_12_RadioButtons_TYPE EXECUTABLE)

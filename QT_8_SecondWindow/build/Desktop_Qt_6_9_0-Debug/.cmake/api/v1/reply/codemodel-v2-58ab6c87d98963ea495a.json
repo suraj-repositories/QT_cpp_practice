@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-50489a502bb3117b0b42.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "QT_8_SecondWindow",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "QT_8_SecondWindow::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-QT_8_SecondWindow-Debug-544972edcd4a6cc3eb9c.json",
+					"name" : "QT_8_SecondWindow",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "QT_8_SecondWindow_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-QT_8_SecondWindow_autogen-Debug-d44128ef27f7c6f690d0.json",
+					"name" : "QT_8_SecondWindow_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "QT_8_SecondWindow_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-QT_8_SecondWindow_autogen_timestamp_deps-Debug-fc2f21d47b6a519bfb9a.json",
+					"name" : "QT_8_SecondWindow_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/shubham/Documents/Qt_workspace/QT_8_SecondWindow/build/Desktop_Qt_6_9_0-Debug",
+		"source" : "/home/shubham/Documents/Qt_workspace/QT_8_SecondWindow"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
