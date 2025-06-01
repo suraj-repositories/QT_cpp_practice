@@ -6,6 +6,13 @@
 #include "QDir"
 #include "QMessageBox"
 #include "aboutdialog.h"
+#include "QFont"
+#include "QFontDialog"
+#include "QColor"
+#include "QColorDialog"
+#include "QPrinter"
+#include "QPrintDialog"
+
 
 MainWindow::MainWindow(QWidget *parent)
     : QMainWindow(parent)
@@ -124,5 +131,65 @@ void MainWindow::on_actionAbout_triggered()
 {
     aboutDialog = new AboutDialog(this);
     aboutDialog->show();
+}
+
+
+void MainWindow::on_actionFont_triggered()
+{
+    // boolean reference variable which value will be changed if font got selected
+    bool ok;
+    QFont font = QFontDialog::getFont(&ok, this);
+
+    if(!ok){
+        return;
+    }
+    ui->textEdit->setFont(font);
+
+}
+
+
+void MainWindow::on_actionText_Color_triggered()
+{
+    QColor color = QColorDialog::getColor(Qt::white, this, "Choose Color");
+
+    if(color.isValid()){
+        ui->textEdit->setTextColor(color);
+    }
+
+}
+
+
+void MainWindow::on_actionText_Background_triggered()
+{
+    QColor color = QColorDialog::getColor(Qt::white, this, "Choose Color");
+
+    if(color.isValid()){
+        ui->textEdit->setTextBackgroundColor(color);
+    }
+}
+
+
+void MainWindow::on_actionEditor_Background_triggered()
+{
+    QColor color = QColorDialog::getColor(Qt::white, this, "Choose Color");
+
+    if (color.isValid()) {
+        QPalette palette = ui->textEdit->palette();
+        palette.setColor(QPalette::Base, color);
+        ui->textEdit->setPalette(palette);
+    }
+}
+
+
+void MainWindow::on_actionPrint_triggered()
+{
+    QPrinter printer;
+    QPrintDialog dialog(&printer, this);
+    if(dialog.exec() == QDialog::Rejected){
+        return;
+    }
+
+    ui->textEdit->print(&printer);
+
 }
 

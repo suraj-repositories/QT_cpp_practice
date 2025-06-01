@@ -17,6 +17,11 @@ public:
     MainWindow(QWidget *parent = nullptr);
     ~MainWindow();
 
+private slots:
+    void on_tabWidget_tabCloseRequested(int index);
+
+    void on_pushButton_clicked();
+
 private:
     Ui::MainWindow *ui;
 };

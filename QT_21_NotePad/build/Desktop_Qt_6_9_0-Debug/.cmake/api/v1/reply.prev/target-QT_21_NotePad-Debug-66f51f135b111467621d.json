@@ -71,7 +71,7 @@
 			{
 				"command" : 4,
 				"file" : 1,
-				"line" : 64,
+				"line" : 67,
 				"parent" : 0
 			},
 			{
@@ -235,6 +235,10 @@
 				},
 				{
 					"backtrace" : 6,
+					"define" : "QT_PRINTSUPPORT_LIB"
+				},
+				{
+					"backtrace" : 6,
 					"define" : "QT_WIDGETS_LIB"
 				}
 			],
@@ -268,6 +272,11 @@
 					"backtrace" : 6,
 					"isSystem" : true,
 					"path" : "/home/shubham/Qt/6.9.0/gcc_64/include/QtGui"
+				},
+				{
+					"backtrace" : 6,
+					"isSystem" : true,
+					"path" : "/home/shubham/Qt/6.9.0/gcc_64/include/QtPrintSupport"
 				}
 			],
 			"language" : "CXX",
@@ -329,6 +338,11 @@
 			},
 			{
 				"fragment" : "-Wl,-rpath,/home/shubham/Qt/6.9.0/gcc_64/lib:",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 6,
+				"fragment" : "/home/shubham/Qt/6.9.0/gcc_64/lib/libQt6PrintSupport.so.6.9.0",
 				"role" : "libraries"
 			},
 			{

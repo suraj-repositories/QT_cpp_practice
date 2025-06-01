@@ -7,7 +7,7 @@
 				{
 					"build" : ".",
 					"hasInstallRule" : true,
-					"jsonFile" : "directory-.-Debug-c98024421b1fb978173b.json",
+					"jsonFile" : "directory-.-Debug-146c3dc788c400845eff.json",
 					"minimumCMakeVersion" : 
 					{
 						"string" : "3.16"
@@ -44,7 +44,7 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "QT_21_NotePad::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-QT_21_NotePad-Debug-9fd5ac5e00549d3ddc5f.json",
+					"jsonFile" : "target-QT_21_NotePad-Debug-78cece0f84ef44255caf.json",
 					"name" : "QT_21_NotePad",
 					"projectIndex" : 0
 				},

@@ -39,6 +39,16 @@ private slots:
 
     void on_actionAbout_triggered();
 
+    void on_actionFont_triggered();
+
+    void on_actionText_Color_triggered();
+
+    void on_actionText_Background_triggered();
+
+    void on_actionEditor_Background_triggered();
+
+    void on_actionPrint_triggered();
+
 private:
     Ui::MainWindow *ui;
 

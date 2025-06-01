@@ -402,6 +402,23 @@ QT_21_NotePad_autogen/timestamp: \
 	/home/shubham/Qt/6.9.0/gcc_64/lib/cmake/Qt6GuiTools/Qt6GuiToolsTargets-relwithdebinfo.cmake \
 	/home/shubham/Qt/6.9.0/gcc_64/lib/cmake/Qt6GuiTools/Qt6GuiToolsTargets.cmake \
 	/home/shubham/Qt/6.9.0/gcc_64/lib/cmake/Qt6GuiTools/Qt6GuiToolsVersionlessTargets.cmake \
+	/home/shubham/Qt/6.9.0/gcc_64/lib/cmake/Qt6PrintSupport/Qt6PrintSupportAdditionalTargetInfo.cmake \
+	/home/shubham/Qt/6.9.0/gcc_64/lib/cmake/Qt6PrintSupport/Qt6PrintSupportConfig.cmake \
+	/home/shubham/Qt/6.9.0/gcc_64/lib/cmake/Qt6PrintSupport/Qt6PrintSupportConfigVersion.cmake \
+	/home/shubham/Qt/6.9.0/gcc_64/lib/cmake/Qt6PrintSupport/Qt6PrintSupportConfigVersionImpl.cmake \
+	/home/shubham/Qt/6.9.0/gcc_64/lib/cmake/Qt6PrintSupport/Qt6PrintSupportDependencies.cmake \
+	/home/shubham/Qt/6.9.0/gcc_64/lib/cmake/Qt6PrintSupport/Qt6PrintSupportPlugins.cmake \
+	/home/shubham/Qt/6.9.0/gcc_64/lib/cmake/Qt6PrintSupport/Qt6PrintSupportTargets-relwithdebinfo.cmake \
+	/home/shubham/Qt/6.9.0/gcc_64/lib/cmake/Qt6PrintSupport/Qt6PrintSupportTargets.cmake \
+	/home/shubham/Qt/6.9.0/gcc_64/lib/cmake/Qt6PrintSupport/Qt6PrintSupportVersionlessAliasTargets.cmake \
+	/home/shubham/Qt/6.9.0/gcc_64/lib/cmake/Qt6PrintSupport/Qt6QCupsPrinterSupportPluginAdditionalTargetInfo.cmake \
+	/home/shubham/Qt/6.9.0/gcc_64/lib/cmake/Qt6PrintSupport/Qt6QCupsPrinterSupportPluginConfig.cmake \
+	/home/shubham/Qt/6.9.0/gcc_64/lib/cmake/Qt6PrintSupport/Qt6QCupsPrinterSupportPluginTargets-relwithdebinfo.cmake \
+	/home/shubham/Qt/6.9.0/gcc_64/lib/cmake/Qt6PrintSupport/Qt6QCupsPrinterSupportPluginTargets.cmake \
+	/home/shubham/Qt/6.9.0/gcc_64/lib/cmake/Qt6PrintSupportPrivate/Qt6PrintSupportPrivateConfig.cmake \
+	/home/shubham/Qt/6.9.0/gcc_64/lib/cmake/Qt6PrintSupportPrivate/Qt6PrintSupportPrivateConfigVersion.cmake \
+	/home/shubham/Qt/6.9.0/gcc_64/lib/cmake/Qt6PrintSupportPrivate/Qt6PrintSupportPrivateConfigVersionImpl.cmake \
+	/home/shubham/Qt/6.9.0/gcc_64/lib/cmake/Qt6PrintSupportPrivate/Qt6PrintSupportPrivateDependencies.cmake \
 	/home/shubham/Qt/6.9.0/gcc_64/lib/cmake/Qt6Widgets/Qt6WidgetsAdditionalTargetInfo.cmake \
 	/home/shubham/Qt/6.9.0/gcc_64/lib/cmake/Qt6Widgets/Qt6WidgetsConfig.cmake \
 	/home/shubham/Qt/6.9.0/gcc_64/lib/cmake/Qt6Widgets/Qt6WidgetsConfigVersion.cmake \
@@ -441,6 +458,7 @@ QT_21_NotePad_autogen/timestamp: \
 	/home/shubham/Qt/Tools/CMake/share/cmake-3.30/Modules/Compiler/GNU-CXX.cmake \
 	/home/shubham/Qt/Tools/CMake/share/cmake-3.30/Modules/Compiler/GNU.cmake \
 	/home/shubham/Qt/Tools/CMake/share/cmake-3.30/Modules/FeatureSummary.cmake \
+	/home/shubham/Qt/Tools/CMake/share/cmake-3.30/Modules/FindCups.cmake \
 	/home/shubham/Qt/Tools/CMake/share/cmake-3.30/Modules/FindOpenGL.cmake \
 	/home/shubham/Qt/Tools/CMake/share/cmake-3.30/Modules/FindPackageHandleStandardArgs.cmake \
 	/home/shubham/Qt/Tools/CMake/share/cmake-3.30/Modules/FindPackageMessage.cmake \

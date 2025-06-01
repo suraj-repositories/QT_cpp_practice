@@ -1,0 +1,24 @@
+# ninja log v6
+3	27	1748778214539911496	QT_22_QTabWidget_autogen/timestamp	8f86111e12c8ca22
+238	1405	1748778064783674352	CMakeFiles/QT_22_QTabWidget.dir/QT_22_QTabWidget_autogen/mocs_compilation.cpp.o	a89d30ba1c3c37f6
+3	27	1748778214539911496	QT_22_QTabWidget_autogen/mocs_compilation.cpp	8f86111e12c8ca22
+3	27	1748778214539911496	/home/shubham/Documents/Qt_workspace/QT_22_QTabWidget/build/Desktop_Qt_6_9_0-Debug/QT_22_QTabWidget_autogen/timestamp	8f86111e12c8ca22
+3	27	1748778214539911496	/home/shubham/Documents/Qt_workspace/QT_22_QTabWidget/build/Desktop_Qt_6_9_0-Debug/QT_22_QTabWidget_autogen/mocs_compilation.cpp	8f86111e12c8ca22
+238	1421	1748778064783674352	CMakeFiles/QT_22_QTabWidget.dir/main.cpp.o	1f8d1a965e5b262f
+27	1529	1748778214563912373	CMakeFiles/QT_22_QTabWidget.dir/mainwindow.cpp.o	98803da9a4c57f1f
+1529	1822	1748778216065967173	QT_22_QTabWidget	186cc87be31de98
+3	229	1748778703334417339	QT_22_QTabWidget_autogen/timestamp	8f86111e12c8ca22
+3	229	1748778703334417339	QT_22_QTabWidget_autogen/mocs_compilation.cpp	8f86111e12c8ca22
+3	229	1748778703334417339	/home/shubham/Documents/Qt_workspace/QT_22_QTabWidget/build/Desktop_Qt_6_9_0-Debug/QT_22_QTabWidget_autogen/timestamp	8f86111e12c8ca22
+3	229	1748778703334417339	/home/shubham/Documents/Qt_workspace/QT_22_QTabWidget/build/Desktop_Qt_6_9_0-Debug/QT_22_QTabWidget_autogen/mocs_compilation.cpp	8f86111e12c8ca22
+230	1397	1748778703339417284	CMakeFiles/QT_22_QTabWidget.dir/QT_22_QTabWidget_autogen/mocs_compilation.cpp.o	a89d30ba1c3c37f6
+230	1647	1748778703339417284	CMakeFiles/QT_22_QTabWidget.dir/form.cpp.o	c49a24e906295a2f
+230	1762	1748778703339417284	CMakeFiles/QT_22_QTabWidget.dir/mainwindow.cpp.o	98803da9a4c57f1f
+1763	2048	1748778704872400412	QT_22_QTabWidget	f5db4ed5ec12236a
+4	44	1748778941449188164	QT_22_QTabWidget_autogen/timestamp	8f86111e12c8ca22
+4	44	1748778941449188164	QT_22_QTabWidget_autogen/mocs_compilation.cpp	8f86111e12c8ca22
+4	44	1748778941449188164	/home/shubham/Documents/Qt_workspace/QT_22_QTabWidget/build/Desktop_Qt_6_9_0-Debug/QT_22_QTabWidget_autogen/timestamp	8f86111e12c8ca22
+4	44	1748778941449188164	/home/shubham/Documents/Qt_workspace/QT_22_QTabWidget/build/Desktop_Qt_6_9_0-Debug/QT_22_QTabWidget_autogen/mocs_compilation.cpp	8f86111e12c8ca22
+45	1434	1748778941490188159	CMakeFiles/QT_22_QTabWidget.dir/form.cpp.o	c49a24e906295a2f
+44	1560	1748778941490188159	CMakeFiles/QT_22_QTabWidget.dir/mainwindow.cpp.o	98803da9a4c57f1f
+1560	1836	1748778943005188015	QT_22_QTabWidget	f5db4ed5ec12236a
